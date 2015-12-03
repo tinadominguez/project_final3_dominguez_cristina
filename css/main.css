@@ -143,6 +143,14 @@ footer {
 }
 
 ul.social {
+    float: right;
     display: inline;
-    height: 60%;
+}
+
+img.sm {
+    height: 30%;
+}
+
+p.footer {
+    float: right;
 }
