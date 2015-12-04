@@ -54,6 +54,12 @@ header {
     padding: 10px;
 }
 
+footer {
+    background-color: #d62222;
+    height: inherit;
+    width: 100%;
+}
+
 a {
     color: #3d4d80;
     text-decoration: none;
@@ -66,13 +72,18 @@ a:hover {
 
 main {
     max-width: 1200px;
+    display: block;
+}
+
+article {
+    padding: 10px;
     align-content: center;
     margin-left: auto;
     margin-right: auto;
 }
 
-img {
-    margin: 5px;
+article.img {
+    padding: 5px;
 }
 
 /* logo */
@@ -145,18 +156,9 @@ img.background {
 
 /*footer*/
 
-footer {
-    display: block;
-    background-color: #FFFFFF;
-}
-
 ul.social {
     float: right;
     display: inline;
-}
-
-img.sm {
-    height: 30%;
 }
 
 p.footer {
@@ -166,9 +168,6 @@ p.footer {
 /*table*/
 
 table {
-    align-content: center;
-    margin-left: auto;
-    margin-right: auto;
     font-family: sans-serif;
     margin: 5px;
     border: 1px;
