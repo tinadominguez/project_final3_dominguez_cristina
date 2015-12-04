@@ -86,6 +86,12 @@ article.img {
     padding: 5px;
 }
 
+ol li {
+    list-style-type: disc;
+    display: list-item;
+    font-family: sans-serif;
+}
+
 /* logo */
 
 #logo {
@@ -152,7 +158,6 @@ img.background {
     width: 100%;
     }
 }
-
 
 /*footer*/
 
