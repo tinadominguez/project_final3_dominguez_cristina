@@ -1216,4 +1216,4 @@
 		overlapControlsInIE:	true		// make sure sub menus appear on top of special OS controls in IE (i.e. SELECT, OBJECT, EMBED, etc.)
 	};
 
-})(jQuery);
+})
