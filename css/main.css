@@ -219,12 +219,6 @@ img.background {
     }
 }
 
-/*footer - other pages*/
-
-footer.other {
-    background-color: #d62222;
-}
-
 /*table*/
 
 table {
@@ -252,4 +246,4 @@ td {
 		}
     }
 
-
+/* CSS for Buttons */
