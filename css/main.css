@@ -246,3 +246,21 @@ td {
 		}
     }
 
+/* Styling for Form */
+
+form {
+  border: 1px solid #D68189;
+  border-radius: 5px;
+  font-family: sans-serif;
+  overflow: hidden;
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 5px;
+  padding-top: 5px;
+}
+
+label {
+    display: block;
+    padding: 5px;
+}
